@@ -1,7 +1,7 @@
 import React from 'react';
 
-function About() {
-  return <div>About</div>;
+function Blog() {
+  return <div>Blog</div>;
 }
 
-export default About;
+export default Blog;
